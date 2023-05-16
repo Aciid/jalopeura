@@ -14,4 +14,4 @@ The project workflow is inspired by the many great LLM projects. Mentions [Alpac
 
 Dataset is translated with ChatGPT in Finnish. Translation done by ChatGPT is not best on the market, but best given price ratio.
 If you want to know more about how the dataset was built please see: [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca).
-At this moment 15,000 prompts are translated from the original 51,785 prompts dataset for benchmark.
+All 51,785 prompts from original alpaca-lora cleaned dataset are now translated, some prompts are missing due to resource exhaustion because of ratelimit reaching backoff maxinum. 
